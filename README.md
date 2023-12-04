@@ -1,6 +1,55 @@
-# Vivitechsa.github.io
-👋 Hi, I’m @PelontleV
-- 👀 I’m interests in Web development 
-- 🌱 I’m currently learning Responsive web design .
-- 💞️ I’m looking to collaborate on web design,logo design projects 
-- 📫 You can reach me on pelontle742@gmail.com.
+<!DOCTYPE html>
+<html Lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="web design">
+	  <meta name="keywords" content="web design, logo design, graphic design">
+  	<meta name="author" content="Pelontle Vinolia">
+    <title>Vivitech Web Deisgn" | Services</title>
+    <link rel="stylesheet" href="./css/style.css">
+ </head>
+<body>
+<header>
+<div class="container">
+<div id="branding">
+<h1><span>vivitech</span></h1> <span class="highlight">creations</span>
+</div>
+<nav>
+<ul>
+<li class="current"><a href="index.html">Home</a></li>
+<li class="current"><a href="about.html" >About</a></li>
+<li class="current"><a href="service.html" >Service</a></li>
+</ul>
+</nav>
+</div>
+</header>	
+<section id="showcase">
+<div class="container">
+<h1>ViviTech Creations</h1>
+<h3>Welcome to ViviTech Creations</h3>
+<p>This is your number one drop service, we are bringing you excellent talents and clent relationship at your finger tip.</p>
+</div>
+</section>
+<main>
+        <section>
+            <h2>About Us</h2>
+       <p>Welcome to ViviTech Creations, where innovation meets accessibility. Our platform is dedicated to bringing you our unique logo designs,graphic design,website creation and SEO optimization. Whether you're starting a business or a brand we are here for you.</p>
+ </section>
+      </main> 
+       <section id="newsletter">
+       <div class="container">
+       <h1>Subscribe to our Newsletter</h1>
+       <form action="your_subscribe_endpoint" method="post">
+       <input type="email" placeholder="Enter your email..." required>
+       <button type="submit">Subscribe</button>
+       </form>
+       </div>
+       </section>
+     <p>Follow us on <a href="https://www.facebook.com/profile.php?id=61554229555155&mibextid=rS40aB7S9Ucbxw6v">Facebook</a> for more updates.</p>
+     
+  <footer>
+         <p>&copy; 2023 ViviTech Creations. All rights reserved.</p>
+           </footer>
+         </body>
+     </html>
+    
